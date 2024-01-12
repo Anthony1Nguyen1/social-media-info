@@ -1,0 +1,141 @@
+body {
+    background-color: black;
+    }
+
+div1{
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+p1 {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+}
+
+a {
+    font-size: 28px;    
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    height: 5vh;
+}
+
+.logo1 {
+    float: left;
+    height: 60px;
+    margin-top: 55px;
+    margin-left: 5px;
+}
+
+.logo2 {
+    float: left;
+    height: 60px;
+    margin-top: 67.5px;
+    margin-left: 5px;
+}
+
+.logo3 {
+    float: left;
+    height: 60px;
+    margin-top: 84px;
+    margin-left: 5px;
+}
+
+.website {
+    font-size: 28px;    
+    color: white;
+    text-align: left;
+    font-family: Arial;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    justify-content: left;
+    height: 5vh;
+}
+
+.wiki {
+    font-size: 28px;    
+    color: white;
+    text-align: left;
+    font-family: Arial;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    justify-content: left;
+    height: 5vh;
+}
+
+.alien {
+    display: block;
+    margin-left: 77vh;
+    margin-right: auto;
+    width: 25%;
+}
+
+div2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #316FF6;;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 60px;
+    background-color: white;
+}
+
+p2 {
+    font-size: 28px;
+    height: 20vh;
+}
+
+div3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF0000;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 60px;
+    background: linear-gradient(black, white);
+}
+
+p3 {
+    font-size: 28px;
+}
+
+div4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f58529;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 60px;
+    background-color: white
+}
+
+p4 {
+    font-size: 28px;
+}
+
+p{
+    font-size: 28px;
+    color: white;
+}
